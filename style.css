@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(200, 227, 250)
+}
+
+.header {
+    color: #1552a3;
+    text-align: center;
+}
+.navbar{
+    list-style:georgian;
+    text-align: center;
+    padding-left: 0%;
+}
+.page_title {
+    color: bisque;
+}
+
+.sub_title {
+    color:blueviolet
+}
+.content ol li{
+
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1em;
+}
